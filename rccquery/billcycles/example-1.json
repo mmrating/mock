@@ -3,20 +3,23 @@
   "offset": 0,
   "rows": [
     {
-      "accountNumber": "0060085025",
       "subscriptionNumber": "0099000438",
       "contractNumber": "0099000438",
       "materialNumber": "000000000000268184",
       "itemNumber": "000100",
-      "offerName": "CPAAS",
-      "serviceType": "SIP_INTL_OUTBOUND",
-      "itemType": "Usage",
-      "usageType": "ECDR",
-      "summarizationType": "SUM_OF_MONTH",
-      "systemType": "CPAAS",
-      "UnitOfMeasure": "Each",
-      "contractStartDate": "2021-03-20",
-      "contractEndDate": "2025-03-20"
+      "usageRun": [
+        {
+          "country": "US",
+          "usage": 132,
+          "price": 393983
+        }
+      ],
+      "active": true,
+      "stage": "CONSOLIDATION",
+      "status": "CONSOLIDATION_FAILED",
+      "message": "The system failed to consolidate due to minimum required usages rule failure. expected: 27 received: 22",
+      "startDate": "2021-03-20",
+      "endDate": "2025-03-20"
     }
   ]
 }
