@@ -1,0 +1,22 @@
+{
+  "total_rows": "",
+  "offset": 0,
+  "rows": [
+    {
+      "accountNumber": "0060085025",
+      "subscriptionNumber": "0099000438",
+      "contractNumber": "0099000438",
+      "materialNumber": "000000000000268184",
+      "itemNumber": "000100",
+      "offerName": "CPAAS",
+      "serviceType": "SIP_INTL_OUTBOUND",
+      "itemType": "Usage",
+      "usageType": "ECDR",
+      "summarizationType": "SUM_OF_MONTH",
+      "systemType": "CPAAS",
+      "UnitOfMeasure": "Each",
+      "contractStartDate": "2021-03-20",
+      "contractEndDate": "2025-03-20"
+    }
+  ]
+}
