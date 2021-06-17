@@ -18,8 +18,8 @@
       "stage": "CONSOLIDATION",
       "status": "CONSOLIDATION_FAILED",
       "message": "The system failed to consolidate due to minimum required usages rule failure. expected: 27 received: 22",
-      "startDate": "2021-03-20",
-      "endDate": "2025-03-20"
+      "startDate": "2021-03-21",
+      "endDate": "2025-03-21"
     }
   ]
 }
